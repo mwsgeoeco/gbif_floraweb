@@ -1,2 +1,2 @@
 # gbif_floraweb
-Florawb-Daten aus GBIF herunter laden
+Floraweb-Daten aus GBIF herunter laden
